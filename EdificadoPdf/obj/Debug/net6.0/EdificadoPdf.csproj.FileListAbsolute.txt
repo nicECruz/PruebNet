@@ -1,0 +1,15 @@
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\EdificadoPdf.exe
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\EdificadoPdf.deps.json
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\EdificadoPdf.runtimeconfig.json
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\EdificadoPdf.dll
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\ref\EdificadoPdf.dll
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\bin\Debug\net6.0\EdificadoPdf.pdb
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.csproj.AssemblyReference.cache
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.AssemblyInfoInputs.cache
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.AssemblyInfo.cs
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.csproj.CoreCompileInputs.cache
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.dll
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\ref\EdificadoPdf.dll
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.pdb
+C:\Users\nicol.cruz\Desktop\Nicol\202105\EdificadoPdf\EdificadoPdf\obj\Debug\net6.0\EdificadoPdf.genruntimeconfig.cache
